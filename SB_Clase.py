@@ -128,6 +128,7 @@ def buscar_usuario(opt):
         break
         pos = pos + 1
 
+
 def crear_usuario():
     ident = input('Digite la identificacion:')
     nom = input('Digite el nombre:')
